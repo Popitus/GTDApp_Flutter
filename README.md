@@ -1,2 +1,2 @@
-# GTDApp_Flutter
+# GTDApp Flutter
  A simple GTD Flutter App
